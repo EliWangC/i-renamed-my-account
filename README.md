@@ -1,2 +1,2 @@
 # i-renamed-my-account
-I RENAMED MY ACCOUNT: https://github.com/eliwangj
+I RENAMED MY GITHUB ACCOUNT: https://github.com/eliwangj
